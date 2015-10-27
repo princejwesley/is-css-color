@@ -1,0 +1,33 @@
+{
+  "name": "is-css-color",
+  "version": "1.0.0",
+  "description": "Check if a given string is css compatible color value",
+  "license": "MIT",
+  "repository": "princejwesley/is-css-color",
+  "author": {
+    "name": "Prince John Wesley",
+    "email": "princejwesley@gmail.com",
+    "url": "http://toolitup.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "css",
+    "color",
+    "string",
+    "detect",
+    "test",
+    "check",
+    "is"
+  ],
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
