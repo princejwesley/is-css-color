@@ -184,7 +184,7 @@ module.exports = function(str) {
     return true;
   }
 
-  let result = color.match(RGB_HSL_PATTERN);
+  var result = color.match(RGB_HSL_PATTERN);
   if(result) {
     var flavor = result[1];
     var alpha = result[2];
