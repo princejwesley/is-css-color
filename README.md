@@ -17,4 +17,4 @@ isCSSColor(hsl(25, 60%, 15%)); // true
 ```
 
 ## License
-[MIT License](https://github.com/princejwesley/is-css-color/blob/master/LICENSE.md)
+[MIT License](https://github.com/princejwesley/is-css-color/blob/master/LICENSE)
